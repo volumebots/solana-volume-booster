@@ -1,6 +1,6 @@
 <div align="center">
 
-# ChartUp Volume Booster
+# ChartUp - Solana Volume Booster
 
 **Managed multi-chain activity testing for blockchain teams, available through Telegram**
 
@@ -187,7 +187,7 @@ Use [`@chartup_support`](https://t.me/chartup_support). Verify the username and 
 | Robinhood Chain Bot | [`@chartuprobinhood_bot`](https://t.me/chartuprobinhood_bot) |
 | Base Bot | [`@chartupbase_bot`](https://t.me/chartupbase_bot) |
 | Support | [`@chartup_support`](https://t.me/chartup_support) |
-| News | [`@chartup_io`](https://t.me/chartup_io) |
+| News | [`@chartupio`](https://t.me/chartupio) |
 | X | [`@chartup_io`](https://x.com/chartup_io) |
 
 ---
